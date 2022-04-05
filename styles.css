@@ -1,0 +1,23 @@
+h1 {
+
+    color:purple;
+
+}
+
+
+ul{
+
+    border: 5px dashed;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+    margin: auto;
+}
+
+ul li {
+
+border: 3px outset;
+display: inline-block;
+
+}
+
